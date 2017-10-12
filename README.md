@@ -6,7 +6,7 @@ This repository contains the Shorenstein Center Notebooks, two [jupyter notebook
 NOTE: Although we try to provide as much guidance as possible for you to run the notebooks yourself without assistance, running the notebooks are technical in nature. We acknowledge there is a learning curve to getting set up and running the notebooks. For further assistance feel free to contact Jacque@kingrailconsulting.com
 
 ## Prerequisites
-1.[Download Anaconda]( https://www.anaconda.com/download/#macos). If you are a novice or new to coding there is a brief beginners tutorial here (https://gallery.mailchimp.com/541429b0748bc916daa431f9d/files/a957cfd4-bee4-43b5-a631-7231380db477/python_simple.pdf).
+1.[Download Anaconda]( https://www.anaconda.com/download/#macos). If you are a novice or new to coding there is a brief beginners tutorial [here] (https://gallery.mailchimp.com/541429b0748bc916daa431f9d/files/a957cfd4-bee4-43b5-a631-7231380db477/python_simple.pdf).
 
 2.Install a python wrapper for your email service provider API if available. In the Shorenstein Notebooks we use the [mailchimp3]( https://github.com/charlesthk/python-mailchimp) wrapper. Search the Python Package Index ([PyPI](https://pypi.python.org/pypi)) and GitHub to find relevant packages and check when they were last updated.
 
