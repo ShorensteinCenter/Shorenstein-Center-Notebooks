@@ -3,7 +3,7 @@ Two jupyter notebooks written in python. Example code for using data science too
 
 This repository contains the Shorenstein Center Notebooks, two [jupyter notebooks]( http://jupyter.org/) published by [the Shorenstein Center]( https://shorensteincenter.org/). The notebooks were written and tested in Python 2.7, but will be updated to Python 3.6 in the coming months. To interpret your results, please visit the accompanying [research guide](http://###). Contributions to the notebooks are welcome.
 
-NOTE: Although we try to provide as much guidance as possible for you to run the notebooks yourself without assistance, running the notebooks are technical in nature. We acknowledge there is a learning curve to getting set up and running the notebooks. For further assistance please contact data scientist Jacque Boltik at Jacque@kingrailconsulting.com, or a member of the Shorenstein Center staff at Emily_Roseman@hks.harvard.edu.  
+NOTE: Although we try to provide as much guidance as possible for you to run the notebooks yourself without assistance, running the notebooks are technical in nature. We acknowledge there is a learning curve to getting set up and running the notebooks. For further assistance please contact data scientist and author of the Shorenstein Center Notebooks Jacque Boltik at Jacque@kingrailconsulting.com, or a member of the Shorenstein Center staff at Emily_Roseman@hks.harvard.edu.  
 
 ## Prerequisites
 1.[Download Anaconda]( https://www.anaconda.com/download/#macos). If you are a novice or new to coding there is a brief beginners tutorial [here](https://gallery.mailchimp.com/541429b0748bc916daa431f9d/files/a957cfd4-bee4-43b5-a631-7231380db477/python_simple.pdf).
