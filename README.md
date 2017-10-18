@@ -10,6 +10,9 @@ NOTE: Although we try to provide as much guidance as possible for you to run the
 
 2.Install a python wrapper for your email service provider API if available. In the Shorenstein Notebooks we use the [mailchimp3]( https://github.com/charlesthk/python-mailchimp) wrapper. Search the Python Package Index ([PyPI](https://pypi.python.org/pypi)) and GitHub to find relevant packages and check when they were last updated.
 
+NOTE: If you get the error message "ImportError: No module named matplotlib" when running the notebook for the first time, try installing matplotlib from within the Anaconda environment as outlined [here](https://anaconda.org/conda-forge/matplotlib).
+
+
 ## Running the notebooks
 If you are not familiar with jupyter notebooks, read this [quick start guide]( https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/).
 
